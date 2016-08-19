@@ -1,0 +1,11 @@
+.bggreen{
+    background-color: green;
+}
+
+.bggreen:hover{
+    background-color: green;
+}
+
+.letraverde{
+    color: green;
+}
